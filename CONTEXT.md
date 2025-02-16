@@ -1,13 +1,13 @@
-# Predicting Even/Odd Numbers in 4-Digit Sequences
+# Predicting Even/Odd Numbers in 6-Digit Sequences
 
 ## Problem Statement
-Predict whether the next number in a 4-digit sequence (1000-9999) will be even or odd, aiming for >70% accuracy.
+Predict whether the next number in a 6-digit sequence (1000-9999) will be even or odd, aiming for >70% accuracy.
 
 ## Implementation Approach
 
 ### Key Steps
 1. **Data Collection**
-   - Gather 4-digit numbers (1000-9999)
+   - Gather 6-digit numbers (100000-999999)
    - Store in structured format (CSV/JSON)
 
 2. **Feature Engineering**
